@@ -1,2 +1,3 @@
 hi = 15
 new_msg = 'In the name of GOD'
+print(new_msg)
