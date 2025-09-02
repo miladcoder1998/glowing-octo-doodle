@@ -8,3 +8,6 @@
 '''
 
 one = 1
+
+
+stat = "This is tempo file"
