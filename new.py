@@ -10,4 +10,5 @@
 one = 1
 
 
-stat = "This is tempo file"
+def new_function():
+    pass
