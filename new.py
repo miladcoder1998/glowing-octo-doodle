@@ -16,3 +16,6 @@ def new_function():
 
 def new_feature():
     pass
+
+def write_it(para):
+    print(para)
