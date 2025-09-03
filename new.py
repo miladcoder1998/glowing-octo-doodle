@@ -13,3 +13,6 @@ author = 'miki'
 
 def new_function():
     pass
+
+def new_feature():
+    pass
