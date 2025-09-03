@@ -9,7 +9,7 @@
 '''
 
 one = 1
-
+author = 'miki'
 
 def new_function():
     pass
