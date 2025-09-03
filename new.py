@@ -5,6 +5,7 @@
 
     git log
     git checkout HASH_
+    git branch -d <name of the branch> -------------> delete the branch
 '''
 
 one = 1
